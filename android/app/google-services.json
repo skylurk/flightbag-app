@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "27957987620",
+    "firebase_url": "https://kasasapp-4cbc5.firebaseio.com",
+    "project_id": "kasasapp-4cbc5",
+    "storage_bucket": "kasasapp-4cbc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27957987620:android:7483c86e314ffbab09cbb1",
+        "android_client_info": {
+          "package_name": "com.acuvera.flightbag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27957987620-7flc51ajh6f7da13e65pb3gt3h61jt7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADZXsuSGyElnrCRfGR766KZF_m2a1_x6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27957987620-7flc51ajh6f7da13e65pb3gt3h61jt7q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27957987620-8omqp3bthdj1fnd4gv2cig24qm5sh9cg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kasasApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27957987620:android:997afba5d9f6359309cbb1",
+        "android_client_info": {
+          "package_name": "com.example.kasas_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27957987620-viurtgbk0kkovc66h08jf7fvbjpnhk2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kasas_app",
+            "certificate_hash": "edd1f247cb80c3b302f353b4185c903ddb8c2a18"
+          }
+        },
+        {
+          "client_id": "27957987620-7flc51ajh6f7da13e65pb3gt3h61jt7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADZXsuSGyElnrCRfGR766KZF_m2a1_x6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27957987620-7flc51ajh6f7da13e65pb3gt3h61jt7q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "27957987620-8omqp3bthdj1fnd4gv2cig24qm5sh9cg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kasasApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
